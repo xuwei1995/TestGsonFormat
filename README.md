@@ -1,4 +1,5 @@
 # TestGsonFormat
+使用 GsonFormat 将json生成bean实体
 中国省份 城市 spinner 双击联动
 
 
